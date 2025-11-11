@@ -915,8 +915,8 @@ file = "mods/hexcassettes-2.0.0-b7d281b.jar"
 hash = "a73481711bb57f2eb8461c71a3e562602cbf097c6ae90f0ad0df49386e7bd60d"
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.2.3-SpellCircle.jar"
-hash = "dceae4cced759186418226e4633a35fd1005664450734d9a62117aa49c393dd9"
+file = "mods/hexcasting-fabric-1.20.1-0.11.2-821ae79.jar"
+hash = "566d75443b37edb4474622d2c0bf616d12d1732a3d7dc6f9cf8a8888385782ce"
 
 [[files]]
 file = "mods/hexcellular-1.1.0.jar"
