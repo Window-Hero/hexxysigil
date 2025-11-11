@@ -989,6 +989,11 @@ file = "mods/hexxyinthealps-fabric-0.1.0+1.20.1-SNAPSHOT.jar"
 hash = "7383087793adbb851fe7124c485fc9b27297c6d63ddcf1a1f1595601c4ff1c39"
 
 [[files]]
+file = "mods/hierophantics.pw.toml"
+hash = "04b60c1af307fe868c98b0e4ef4d641dbf4ebe800524ea5ad779b47cedd3ff1c"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "5cf1ab05fe931789df7c7ed632c154295b02469db457570bbcb4804a739d563b"
 metafile = true
