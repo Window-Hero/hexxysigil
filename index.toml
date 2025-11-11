@@ -618,6 +618,11 @@ hash = "b886b1761e9a0e36cfc351c3e8cd3455fbe35143ade876c97cc43d02b07b061d"
 metafile = true
 
 [[files]]
+file = "mods/defaulted-hotkeys.pw.toml"
+hash = "24a6c2c297f58ae5a89cadfeaf9c6290b42a48e12e7508c01b7b37fb003e30fd"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "124b19b3e7d56e5c92ddd5fd3a97a1d3c03d67b3500f7f20f4d69bc4d733e7a2"
 metafile = true
