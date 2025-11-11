@@ -907,8 +907,8 @@ hash = "72970d6a98ab0ef33cfd532786466a349b7ffca8d0890546d49acc0da55e3744"
 metafile = true
 
 [[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar"
-hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
+file = "mods/hexal-fabric-1.20.1-0.3.0-301756e.jar"
+hash = "71756cde9d931af6b779fdf475598521899086b28395783fb9fcf1151dc3a59f"
 
 [[files]]
 file = "mods/hexcassettes.pw.toml"
