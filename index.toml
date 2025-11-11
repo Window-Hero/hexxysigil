@@ -37,6 +37,10 @@ file = "config/convenientdecor.json5"
 hash = "5a5b10bfd2da3a9bc9e6f7b73b16a06dbaae7b879be814c7943519b2771e0cb3"
 
 [[files]]
+file = "config/default-hotkeys.json"
+hash = "d4fa342737f13947556865e269b91af78e66ade08e6e3060f694a20093bd96cc"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "645ba5be62ad090aaf4e3befdf039a1c3465da873c845934bdf9f82c70b39f37"
 
