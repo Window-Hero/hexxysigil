@@ -3,13 +3,13 @@ filename = "hexpsi-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/beholderface/Enlightened-Psionics/releases/download/jam/hexpsi-1.0.0.jar"
+url = "https://github.com/beholderface/Enlightened-Psionics/releases/download/eeby-deeby/hexpsi-1.0.0.jar"
 hash-format = "sha256"
-hash = "7d9266e28dc187fbcc7e3d685c08a7f217b3000ef70e251662e54a461fe15515"
+hash = "f5bebe63f6d5e2b42cead9fa08ac46cc4403475640bee295d98a35895db1e74d"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "beholderface/Enlightened-Psionics"
-tag = "jam"
+tag = "eeby-deeby"

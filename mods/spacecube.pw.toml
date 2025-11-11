@@ -1,13 +1,13 @@
 name = "Space Cube"
-filename = "spacecube-0.9.11.jar"
+filename = "spacecube-fabric-0.9.16.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/H5uBVVRE/versions/HIEym8mi/spacecube-0.9.11.jar"
-hash-format = "sha1"
-hash = "2f100a3f82064cf5cf76857719a3ddb2d1f83739"
+url = "https://cdn.modrinth.com/data/H5uBVVRE/versions/O5NVy2US/spacecube-fabric-0.9.16.jar"
+hash-format = "sha512"
+hash = "a94cb8832feab0130062dffe9f91992833019fe5ef3ef394174146c1dfbab6d0f77b676bfe2e662d999a3e624377b6af5bfbba50000b028d113f83a42cec67af"
 
 [update]
 [update.modrinth]
 mod-id = "H5uBVVRE"
-version = "HIEym8mi"
+version = "O5NVy2US"

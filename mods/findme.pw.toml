@@ -1,13 +1,13 @@
 name = "FindMe"
-filename = "findme-3.2.1-fabric.jar"
+filename = "findme-3.2.3-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rEuzehyH/versions/GWd8Gpye/findme-3.2.1-fabric.jar"
-hash-format = "sha1"
-hash = "26a8462b22131f83f49353613b5ac2d38696368e"
+url = "https://cdn.modrinth.com/data/rEuzehyH/versions/3yVHZGuH/findme-3.2.3-fabric.jar"
+hash-format = "sha512"
+hash = "1fea0515d1190e16fd367e2e4971a274e7b7efbe6c592ff3f6d6b5be018fb6db3cba9802b18241eff932d954eaea5fd8ac8d6f13322c1a03b7335dbfb2727131"
 
 [update]
 [update.modrinth]
 mod-id = "rEuzehyH"
-version = "GWd8Gpye"
+version = "3yVHZGuH"
