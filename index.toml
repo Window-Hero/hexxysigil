@@ -911,9 +911,8 @@ file = "mods/hexal-fabric-1.20.1-0.3.0-301756e.jar"
 hash = "71756cde9d931af6b779fdf475598521899086b28395783fb9fcf1151dc3a59f"
 
 [[files]]
-file = "mods/hexcassettes.pw.toml"
-hash = "9cd905af68b1aed3f4e0d38fda5514420b8362b2a69d45c6711ea0ab7fb14ace"
-metafile = true
+file = "mods/hexcassettes-2.0.0-b7d281b.jar"
+hash = "a73481711bb57f2eb8461c71a3e562602cbf097c6ae90f0ad0df49386e7bd60d"
 
 [[files]]
 file = "mods/hexcasting-fabric-1.20.1-0.11.2.3-SpellCircle.jar"
