@@ -844,6 +844,10 @@ hash = "42b0e94254b3fa4eaf4cfe24d67223acfd0c93868f1e9df19d1f8c172b8dbda4"
 metafile = true
 
 [[files]]
+file = "mods/fsb-carpet-addon-0.1.1.jar"
+hash = "6e6fbf2069ec9be848228ac5de0c276874720ec9c4e72e93b1152d52eb2ba9d9"
+
+[[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
 hash = "3e1c0acfc7477a24b94bf6ae954fa2443602693d7a879ea07a089e6c1c2a78be"
 metafile = true
