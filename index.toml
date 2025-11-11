@@ -955,6 +955,11 @@ file = "mods/hexportation-fabric-1.20.1-0.0.2.jar"
 hash = "36bcd2b0a39b411211f7270544be3f8bcca11a90740b038c18ebc5c5d5ed7a2e"
 
 [[files]]
+file = "mods/hexportation.pw.toml"
+hash = "b5ed3b3b787b8cda46501f21bf1b7a1366a81a1ca64f87892e909eff19c15a56"
+metafile = true
+
+[[files]]
 file = "mods/hexpose-1.0.0.jar"
 hash = "5deb2708560ca8074a6ff660c6d0086388c3fdf4728065a7b342160827977898"
 
