@@ -513,6 +513,11 @@ hash = "0bd043188cb7628a76706ded30cc1780d5783ab7101e99ddbe710dec0f0fbdb7"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
 file = "mods/convenient-decor.pw.toml"
 hash = "4cbf7e86bc8bd3f00ad9130a1ac70c5c4f7df73955e93f62493c150790c24af2"
 metafile = true
