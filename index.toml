@@ -1114,6 +1114,11 @@ hash = "3ae25fda69b0a526f11b83560f91d05d443ec8fc9257d91097c835ba59cd27e3"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "74de7039e94b9fd321995bb32cc3c4f8d711aea9c574098d577ab54076c88c36"
 metafile = true
