@@ -687,8 +687,8 @@ hash = "c4de047605e02babe89989591270ca70e50b5955dabb566de66b3ef6a876a5d4"
 metafile = true
 
 [[files]]
-file = "mods/efhexs-1.0.0.jar"
-hash = "ffe68ef1064d95ceefb1635c5239104f1e8f4e7bab3f76b1a95b7ef90d18612e"
+file = "mods/efhexs-1.0.0-20dbe0d.jar"
+hash = "bdbea2df3c466eff733377685a4a199516f7ac7b67c82dd32e0521d37f386bce"
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
