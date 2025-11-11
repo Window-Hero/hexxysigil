@@ -255,6 +255,11 @@ hash = "26860b6d05d186edfa64ca3c894c853e749b390d49bb4276f290535518aee08b"
 metafile = true
 
 [[files]]
+file = "mods/anvil_heads.pw.toml"
+hash = "5696af9cbedb08a1f6a047bc766b4d9ecd42693e15dbe2387f6e71e35d40964f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
