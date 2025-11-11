@@ -985,6 +985,10 @@ hash = "65924043256cc99c29a75e02a3a6ca1f2102295a627b2d3ed69d7a5442dd1176"
 metafile = true
 
 [[files]]
+file = "mods/hexxyinthealps-fabric-0.1.0+1.20.1-SNAPSHOT.jar"
+hash = "7383087793adbb851fe7124c485fc9b27297c6d63ddcf1a1f1595601c4ff1c39"
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "5cf1ab05fe931789df7c7ed632c154295b02469db457570bbcb4804a739d563b"
 metafile = true
