@@ -933,6 +933,10 @@ hash = "b48832001c692143d8140577323ec8033bfe868c44d79daa27cdd8a64913cf40"
 metafile = true
 
 [[files]]
+file = "mods/hexic-1.4.5+034100b.jar"
+hash = "ad7da7cab2441e09dbc845b49a392b4d02fb323e58d85ce2f99b8e34d68d3952"
+
+[[files]]
 file = "mods/hexical-2.0.0.jar"
 hash = "ad0fc01d2886b6cb54f38c4bade07b682f18cdc77c3b0047b6043653b5672807"
 
