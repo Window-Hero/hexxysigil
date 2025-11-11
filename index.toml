@@ -1124,6 +1124,11 @@ hash = "74de7039e94b9fd321995bb32cc3c4f8d711aea9c574098d577ab54076c88c36"
 metafile = true
 
 [[files]]
+file = "mods/lesser-teleport.pw.toml"
+hash = "9a007915eba7703d5ecda48c7abe36a1e29e6f39c729e026dd5551b48ae44c40"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "e0c0ce917935c5f659e10d6d3b55447ff89bfcd5275807e9e33f06865dd4e2c0"
 metafile = true
