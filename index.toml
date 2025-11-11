@@ -677,6 +677,11 @@ hash = "0d5868bba421200454378326c519e683174786f46566318414c95286c564d371"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "77db2a79ccab8ea16987b981f0de7d6442f716217b83ebe9669f84006b07daf1"
+metafile = true
+
+[[files]]
 file = "mods/effortless-building-fabric.pw.toml"
 hash = "c4de047605e02babe89989591270ca70e50b5955dabb566de66b3ef6a876a5d4"
 metafile = true
