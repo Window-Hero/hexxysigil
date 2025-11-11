@@ -1069,6 +1069,11 @@ hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
+file = "mods/jline4mcdsrv.pw.toml"
+hash = "e83779f8756fbcc004ec9813a821cf4cd5b1d58f6567d29e830f7a1b31e94fb9"
+metafile = true
+
+[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "9495bb2388d7fa5ccf6b33b485f75c7ed15f8a59956406a92ad427e8504980e8"
 metafile = true
