@@ -795,6 +795,11 @@ hash = "b1f3b4fef1649dc30619aa87ae6caed97c98d5cf6ba94622cc214f4049628e46"
 metafile = true
 
 [[files]]
+file = "mods/fakerlib.pw.toml"
+hash = "650af6cf72d6fc89d1bd133106fc981cd77a5ea2986a32105bd400f8a160be7e"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e09385ac1a1c0900b8fa619290eb0f0539949ebbc59f7604a7699485784ccc85"
 metafile = true
@@ -1791,6 +1796,16 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
+metafile = true
+
+[[files]]
+file = "mods/zenith-attributes.pw.toml"
+hash = "6b9c4e2d1c56b70d9ea580a34d894c1c558f2192106bf4fd05277ab66e29513d"
+metafile = true
+
+[[files]]
+file = "mods/zenith.pw.toml"
+hash = "20f2760a6f7f9b31e8d80e78b98f1285673750c7c99749ef311e21aaf503a6e7"
 metafile = true
 
 [[files]]
