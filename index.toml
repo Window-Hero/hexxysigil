@@ -1550,6 +1550,11 @@ hash = "63476ad1794d5fe2992eb55af1311908e464365d5623cedc738e61145144dcff"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "0238d3e484f1829aaabb3b2482e528e192f3124fad89d81f43d7b60406e17d71"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "6e5a8f947f77a0a9cf18347edd01a08fc725c2ecaa10cf61e6b429a54e50a463"
 metafile = true
