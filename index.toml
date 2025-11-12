@@ -1660,6 +1660,11 @@ hash = "75ae415614ac1c738733c3a052839787f5ce4eca32247796ba4dcdb37d0925de"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "df71b5d7427e9a508e9f298b5cdec84aa8c4fcb584beb0d16d86efb9d47b3bcd"
 metafile = true
