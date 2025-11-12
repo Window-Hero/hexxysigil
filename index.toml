@@ -1824,6 +1824,34 @@ hash = "20f2760a6f7f9b31e8d80e78b98f1285673750c7c99749ef311e21aaf503a6e7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Hexxycraft/assets/complexhex/lang/en_us.json"
+hash = "955eff8dc78f86a4d66564c3c227cb42caab90c1f272ea806b539d32f3188c1d"
+
+[[files]]
+file = "resourcepacks/Hexxycraft/assets/hexcasting/patchouli_books/thehexbook/en_us/entries/greatwork/hexbox.json"
+hash = "d665bee7ae5cd9b1c31a86ba26bc137f3adca900b7eb88feef4c9bfdaca906ac"
+
+[[files]]
+file = "resourcepacks/Hexxycraft/assets/hexcasting/patchouli_books/thehexbook/en_us/entries/greatwork/quenching_allays.json"
+hash = "f39127b7904ab8dd318f34cf4afe33fddc6b54f1633342e23e03c2eaa2b03a81"
+
+[[files]]
+file = "resourcepacks/Hexxycraft/assets/hexcasting/patchouli_books/thehexbook/en_us/entries/patterns/spells/mage_blocks.json"
+hash = "a6a6a26547d3bdd23a4a0d2d99de169c7b4c6e1865da3079796864d794defd54"
+
+[[files]]
+file = "resourcepacks/Hexxycraft/assets/hexcasting/patchouli_books/thehexbook/en_us/entries/patterns/spells/sample_block.json"
+hash = "9a4ff0ca604d220cf654d2960ef40307a6b1f2fec28d9526068778a26c0a920e"
+
+[[files]]
+file = "resourcepacks/Hexxycraft/assets/hexical/lang/en_us.json"
+hash = "3c571d3cd656dbb5eb8b754a4df949d701b488e2a348127a2110d09e251ac005"
+
+[[files]]
+file = "resourcepacks/Hexxycraft/pack.mcmeta"
+hash = "af3cf19f38aa3bb80f4d9625656baf98a36ea66b39c712247a02bf1e78eb995c"
+
+[[files]]
 file = "resourcepacks/ccc.pw.toml"
 hash = "b49904b7ef3c4f7a6a5a3463fb6f064a19a547568218ba7dd605c08dfbf35e7b"
 metafile = true
