@@ -1515,6 +1515,11 @@ hash = "fae2bc6c282159f6a2e55e22d19241c625a9795dddbe8bd0f0b501c8aa709be1"
 metafile = true
 
 [[files]]
+file = "mods/slate-works.pw.toml"
+hash = "1a933ea3ce8485a9fb4a50efb5780a126e38e21ad92e03593bf987a495a8eed6"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "b47f37ae55bed0d5102ec18355de5d90e48f6d33ee26fec1f06a6a1ec86bd5e9"
 metafile = true
