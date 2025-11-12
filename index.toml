@@ -1550,6 +1550,16 @@ hash = "63476ad1794d5fe2992eb55af1311908e464365d5623cedc738e61145144dcff"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "6e5a8f947f77a0a9cf18347edd01a08fc725c2ecaa10cf61e6b429a54e50a463"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
+hash = "bad699bcd2c76c29b41ef64c812cf90dec0f35040e315b846c8146641d5a0d99"
+metafile = true
+
+[[files]]
 file = "mods/spacecube.pw.toml"
 hash = "98183ac4a4bd3c9342162551b593494723bdbb146f20ebe80f89f6c48f1d1eaf"
 metafile = true
