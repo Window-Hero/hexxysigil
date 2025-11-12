@@ -1699,6 +1699,11 @@ hash = "f434dcc905ddf379e471f7a02e5460b186f207f9d4626b0e9914c54159d7e85a"
 metafile = true
 
 [[files]]
+file = "mods/tt20.pw.toml"
+hash = "f8382fb7ab96faa147b573619c5da9872fa6abcce25982ac015ca737e7a73339"
+metafile = true
+
+[[files]]
 file = "mods/turtle-charging-station.pw.toml"
 hash = "b6e6abb2950c18f02adfb31e4c1cf17e41f7b3660842bd8b29aa4980bed3dbf3"
 metafile = true
