@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "dcbe0ee85bfa16137085751b34443bebecdd57cca4258b7fa0b1f06e589ee6d2"
+hash = "2674266f233fb1e453d04642d6f04e8d6e0676a51951b81716a7aa8d5d4b817b"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddedcomputer.pw.toml"
-hash = "0d8790db7975215bc98a2d1b5103f355dd109904fcdf19e200758529c09af273"
+hash = "953a1beeb4f51f10ea7ce7fa66614bda88599d45384ec5981d06519d1c1e4a75"
 metafile = true
 
 [[files]]
@@ -1725,12 +1725,12 @@ metafile = true
 
 [[files]]
 file = "mods/turtle-charging-station.pw.toml"
-hash = "b6e6abb2950c18f02adfb31e4c1cf17e41f7b3660842bd8b29aa4980bed3dbf3"
+hash = "d99ad85475596406d1de85c58fe1550e82590bb915fa1abecaea1eab4e307d9d"
 metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
-hash = "eda192c18fb5dd851fb46565f55615e98ddab5742a98eba88ce2d51ab60da008"
+hash = "6c991e107a958a1eaceb8af1f234cbbb6016a1831981399e0c5c22ba66d32129"
 metafile = true
 
 [[files]]
@@ -1740,7 +1740,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "5f5189c7ff0a3ecb66e2f20cc2b052fe5415040f474952f85887c3de08f46043"
+hash = "c166ddba38a633b729d3c947e4f00c81f37d281a28b226430e8ba1662f18b9ea"
 metafile = true
 
 [[files]]
