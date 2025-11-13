@@ -42,7 +42,7 @@
             }
         },
         "cc-security": {
-            "-breaks": {
+            "-depends": {
                 "computercraft": "IGNORED"
             }
         }
