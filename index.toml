@@ -1780,7 +1780,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "1eeb3e6b9c1358bfcdd06e8802cd6b4bfbf4acbf5a5291f4a9064c38bf7bdff7"
+hash = "d885e6ee5133e33b62fc32e96fd2ac4bd47e3eed59cde30d59c4e35168ab40ce"
 metafile = true
 
 [[files]]
