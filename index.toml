@@ -775,6 +775,11 @@ hash = "58ce7f2e4562390892753e25d008cadfdc78fbbdf36af2875a3cc46a47aba0e4"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "174c496d2d38d39ef7c531a34e43e1ec949d418816cdb2f8161dd6f2990f8752"
+metafile = true
+
+[[files]]
 file = "mods/extended-cogwheels.pw.toml"
 hash = "319b5ecd66c1efbd3741f649dbc71d7d2e8dcdc0ad708c3a4e3e529eccafa0f7"
 metafile = true
@@ -1276,6 +1281,11 @@ metafile = true
 [[files]]
 file = "mods/moves-the-mind.pw.toml"
 hash = "5ed9c133429d8c36ee5d052a07962e10c5bca14a0e3154c9603fb40d3ca7dd09"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
 
 [[files]]
