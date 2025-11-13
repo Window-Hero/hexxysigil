@@ -1491,11 +1491,6 @@ hash = "029acab7ef100720cf537fcb676e706b61fd289add0f712185ec81ceff944804"
 metafile = true
 
 [[files]]
-file = "mods/sc-peripherals.pw.toml"
-hash = "666bb36c42a08f6f34ac4ed954f95222ba690a6380062b740b602abe8f21901c"
-metafile = true
-
-[[files]]
 file = "mods/scarves.pw.toml"
 hash = "1edbb99891cf492f661aa7edf589d021ffdcb8e6d3c1a3698f24756b1ddc3ce9"
 metafile = true
