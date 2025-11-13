@@ -423,6 +423,11 @@ hash = "61fe0368e62d8926d1c7429532f74d22afc3e7044bee9385452095bd492976ef"
 metafile = true
 
 [[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "7d422506778a8643e71c6597bba4ea87935856b4ef2320bddde03bf8e9230e58"
+metafile = true
+
+[[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "2674266f233fb1e453d04642d6f04e8d6e0676a51951b81716a7aa8d5d4b817b"
 metafile = true
@@ -549,6 +554,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "338196f41190bb2c0b34d4a8aa10e0f41bdf339bd436ce3f738762d3e56883b8"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "ce13b5e51405cbfd8025a38dcbc707428566f820c3c1c98473507db0f4386007"
 metafile = true
 
 [[files]]
@@ -966,6 +976,11 @@ hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
 metafile = true
 
 [[files]]
+file = "mods/hexsky.pw.toml"
+hash = "f2096ab5a88c58a817e02fdf23e5223ef64ceeac5019eebdcfa7ac0e0eae95a4"
+metafile = true
+
+[[files]]
 file = "mods/hexstruction.pw.toml"
 hash = "3b13b4ab8393dd58e08f9a51a86bfde4b720fd8590d235ad7c3387786f3b3503"
 metafile = true
@@ -1034,6 +1049,11 @@ hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "d35c75ec92d4e1c46d264d41685bf261b5984d81457762bd5f360e4fce251261"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "4920ebc0f0fac4adfbe595bb09142dca5ec70304c6fdf50e72d9b358aaad7c49"
 metafile = true
@@ -1066,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "71cbf98e028cb67f8b9a071edc760bf26614895feeb568a1aac2b44926f1dd12"
+metafile = true
+
+[[files]]
+file = "mods/jade-vs.pw.toml"
+hash = "df0c3d7ec59033d2fd944783f73b2bcae09765292d19259781ccb0352d2a4eb4"
 metafile = true
 
 [[files]]
@@ -1741,6 +1766,11 @@ metafile = true
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
 hash = "548393f72fcc76ba704f4b5b21f6dc417b1b25641698635b7cbc9ff5c92df4cc"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "1eeb3e6b9c1358bfcdd06e8802cd6b4bfbf4acbf5a5291f4a9064c38bf7bdff7"
 metafile = true
 
 [[files]]
