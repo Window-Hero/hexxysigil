@@ -663,16 +663,6 @@ hash = "84099541d113b40afde01b62fac476c940898d8dcf669f34a3e48d79c0271f2c"
 metafile = true
 
 [[files]]
-file = "mods/easy-anvils.pw.toml"
-hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
-metafile = true
-
-[[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
-metafile = true
-
-[[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "c6f6a8198f1e6483dcfb2c7aa4714969c26a018f6c7b2251b7647eef73e969de"
 metafile = true
