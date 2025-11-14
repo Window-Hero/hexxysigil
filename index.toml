@@ -66,7 +66,7 @@ hash = "2959c44525b4ef7af91a03df292728c45c7417adcd93174bc9669215654bdbc3"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "44864a9d37d953e531a9241f697e83e05277b3938560539b41e0129fad8e47c9"
+hash = "af3beede1d5fd0eaead2923270a2a8a9aae5981d52d313e9e5c5734d35eeb1d3"
 
 [[files]]
 file = "config/fabrication/dimensional_tools.ini"
@@ -1137,6 +1137,10 @@ metafile = true
 file = "mods/labels.pw.toml"
 hash = "65a3f710e650438e1ebaecee0cedf994ccd58de92c9643f74fdefabdadfbcf8e"
 metafile = true
+
+[[files]]
+file = "mods/lapisworks-1.5.7-SNAPSHOT.jar"
+hash = "56149ecc65a66c189ca3628f5f406e13b837cd904111da30c6e6d57c1711a833"
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"

@@ -40,6 +40,11 @@
             "depends": {
                 "hexal": "0.3.0-301756e"
             }
+        },
+        "lapisworks": {
+            "depends": {
+                "hexcasting": "0.11.2-821ae79"
+            }
         }
     }
 }
